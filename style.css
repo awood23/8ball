@@ -1,0 +1,16 @@
+html {
+  background-color: rgb(110, 0, 137);
+}
+
+body {
+  width: 600px;
+  margin: 25px auto;
+  font-family: cursive;
+  background-color: rgba(0, 255, 26, 0.805);
+  border-radius: 15px;
+  padding: 25px 50px;
+  text-align: center;
+}
+h1 {
+  font-family: cursive;
+}
